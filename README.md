@@ -23,8 +23,21 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a node runner and validater <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Active projects:
+1. ***[Minima](https://minima.global/ "Minima")***  
+2. ***[Massa Finance](https://masa.finance/ "Massa Finance")***  
+3. ***[Meson Network](https://meson.network/ "Meson")***  
+4. ***[Iron Fish](https://ironfish.network/docs/whitepaper/1_introduction "Iron Fish")***
+5. ***[MASSA Protocol](https://test.massa.net/#explorer?explore=2FN1EGWv3V3vAzdJSW6kRi4CjuCLo9cbjvY4sqb5yT6g5NL6xd "Unlimitedmolot_massa_node")*** 
+6. ***[Ethereum Mining](https://eth.2miners.com/account/0x9ec590f56e5c98a9617bf990509389c7217baddc"Unlimitedmolotminer")***  
+7. ***[Flux protocol ambassador (flux foretellers)](https://www.fluxprotocol.org/blog/announcing-the-flux-protocol-foreteller-event"Unlimitedmolotminer")***
+8. ***[Medibloc Mainnet Validator](https://www.mintscan.io/medibloc/validators/panaceavaloper1ut57eqcjwcayjdz7fh0t7c8z4lut2sf0lj2kl4)***
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+
+Active projects:
 
 - :seedling: Exploring Technical Content Writing.
 
