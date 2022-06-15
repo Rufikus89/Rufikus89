@@ -22,7 +22,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a node runner and validater <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- I am a node runner and validater <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 Active projects:
 1. ***[Minima](https://minima.global/ "Minima")***  
