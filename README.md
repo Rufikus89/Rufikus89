@@ -24,6 +24,7 @@
 
 ### :woman_technologist: About Me :
 I am a node runner and validater <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
 Active projects:
 1. ***[Minima](https://minima.global/ "Minima")***  
 2. ***[Massa Finance](https://masa.finance/ "Massa Finance")***  
@@ -34,16 +35,10 @@ Active projects:
 7. ***[Penumbra](https://penumbra.zone/ "Penumbra")***
 8. ***[StarkNet](https://starkware.co/starknet/ "StarkNet")***
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-
-Active projects:
+- :telescope: I’m working as a Ambassador and contributing to crypto project's.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
