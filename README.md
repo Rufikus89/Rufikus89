@@ -12,8 +12,10 @@
     </a>
   </div>
   <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="3px"/>
+    Hey there!
+    </h1>
+  <h1>
+    <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px"/>
   </h1>
 </div>
 
