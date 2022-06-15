@@ -50,6 +50,6 @@ Active projects:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-On development stage - :smil:
+On development stage - :smile:
 <!-- BLOG-POST-LIST:END -->
 
