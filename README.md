@@ -33,6 +33,7 @@ Active projects:
 6. ***[Gear Tech](https://www.gear-tech.io/ "Gear Tech")***  
 7. ***[Penumbra](https://penumbra.zone/ "Penumbra")***
 8. ***[StarkNet](https://starkware.co/starknet/ "StarkNet")***
+9. ***[Aptos](https://aptoslabs.com/ "Aptos")***
 
 - :telescope: I’m working as a Ambassador and contributing to crypto project's.
 
